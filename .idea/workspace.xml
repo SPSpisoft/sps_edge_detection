@@ -4,7 +4,76 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f08b3923-f33b-4d39-b5f6-cea7d389432e" name="Default Changelist" comment="bug fix pod file">
+    <list default="true" id="f08b3923-f33b-4d39-b5f6-cea7d389432e" name="Default Changelist" comment="init st fix">
+      <change afterPath="$PROJECT_DIR$/example/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/kotlin/com/example/example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/runner/main.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/runner/my_application.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/linux/runner/my_application.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Flutter/Flutter-Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Flutter/Flutter-Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Base.lproj/MainMenu.xib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Configs/AppInfo.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Configs/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Configs/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Configs/Warnings.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/DebugProfile.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/MainFlutterWindow.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/Runner/Release.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/macos/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/icons/Icon-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/icons/Icon-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/icons/Icon-maskable-192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/icons/Icon-maskable-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/web/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/windows/runner/win32_window.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/example/.gitignore" afterDir="false" />
@@ -185,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735383332157</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init st fix">
+      <option name="closed" value="true" />
+      <created>1744392553259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744392553259</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -208,6 +285,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="bug fix pod file" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix pod file" />
+    <MESSAGE value="init st fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="init st fix" />
   </component>
 </project>
